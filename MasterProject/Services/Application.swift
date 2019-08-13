@@ -141,7 +141,7 @@ extension Application {
         }
 
         static func appURL() -> URL {
-            return URL(string: "https://itunes.apple.com/app/id1125883020")!
+            return URL(string: "https://itunes.apple.com/app/id1234567890")!
         }
     }
 }
