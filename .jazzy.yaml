@@ -1,0 +1,9 @@
+module: MasterProject
+author: Satish Babariya
+
+theme: fullwidth
+
+exclude:
+  - "Pods"
+  - "MasterProjectTests"
+  - "MasterProjectUITests"
